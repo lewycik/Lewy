@@ -1,8 +1,8 @@
 <h2 align="center">Hello, Im Lewy 👋</h2>
 </p>
 
-![GitHub followers](https://img.shields.io/github/followers/TheLewy?style=social)
-![GitHub Org's stars](https://img.shields.io/github/stars/TheLewy?style=social)
+![GitHub followers](https://img.shields.io/github/followers/lewyrtx?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/lewytrx?style=social)
 
 ### 🛠 Software Languages
 
@@ -16,12 +16,12 @@
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=TheLewy&theme=omni&hide_border=true'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=lewyrtx&theme=omni&hide_border=true'>
 </p>
 
 <p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=TheLewy&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheLewy&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=27&hide_border=true'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=lewyrtx&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lewyrtx&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=27&hide_border=true'/>
 </p>
 
 <h2 align="center"></h2>
