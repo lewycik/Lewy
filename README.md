@@ -1,31 +1,20 @@
-<h2 align="center">Hello, Im Lewy 👋</h2>
-</p>
+# Hi, I am Lewy
+![profile count](https://komarev.com/ghpvc/?username=lewycik&color=blue)&nbsp;
+[![GitHub Stats](https://img.shields.io/github/followers/lewycik?label=follow&style=social)](https://github.com/lewycik)&nbsp;
 
-![GitHub followers](https://img.shields.io/github/followers/lewyrtx?style=social)
-![GitHub Org's stars](https://img.shields.io/github/stars/lewytrx?style=social)
-
-### 🛠 Software Languages
-
-![NodeJS](https://img.shields.io/badge/-Node.js%20-111111?style=flat&logo=Node.js)&nbsp;
+## Languages and Technologies I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=007ACC)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=1572B6)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
-## 🍷 GitHub Stats
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=lewyrtx&theme=omni&hide_border=true'>
+## :bar_chart: GitHub Stats:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lewycik&show_icons=true&theme=dark&locale=en&layout=compact" alt="lewycik" />
 </p>
-
-<p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=lewyrtx&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lewyrtx&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=27&hide_border=true'/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=lewycik&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lewycik&theme=radical" />
 </p>
-
-<h2 align="center"></h2>
-</p>
-
-### Contact
-- Discord [Lewy](https://discord.com/users/514986040696504323)
